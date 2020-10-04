@@ -1,1 +1,2 @@
-# A-Self-Training-Subspace-Clustering-Algorithm-under-Low-Rank-Representation-for-Cancer-Classificatio
+# A-Self-Training-Subspace-Clustering-Algorithm-under-Low-Rank-Representation-for-Cancer-Classification
+C. Xia, K. Han, Y. Qi, Y. Zhang and D. Yu, "A Self-Training Subspace Clustering Algorithm under Low-Rank Representation for Cancer Classification on Gene Expression Data," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 15, no. 4, pp. 1315-1324, 1 July-Aug. 2018, doi: 10.1109/TCBB.2017.2712607.
